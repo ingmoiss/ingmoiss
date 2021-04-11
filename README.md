@@ -1,8 +1,8 @@
-# Hi, I am Moisés a junior software engineer :man_technologist
+# Hi, I am Moisés a junior software engineer :man_technologist:
 
-<p>I am an advanced student of software engineering, with extensive knowledge in web site creation, desktop application development and database. I am a self-taught person who does not stop learning. </p>
+<p>I am an advanced student of software engineering :man_student:, with extensive knowledge in web site creation, desktop application development and database. I am a self-taught person who does not stop learning. :brain: </p>
 
-## Social Networks:
+### Social Networks:
 [![](https://i.imgur.com/bL5Sjy0.png)](https://www.instagram.com/_.moiss._/) 
 [![Facebook](https://i.imgur.com/0FdXDPG.png)](https://www.facebook.com/moises.navarrocordero/) 
 [![Twitter](https://i.imgur.com/PeR6qmL.png)](https://twitter.com/_moiss_) 
