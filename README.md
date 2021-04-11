@@ -9,7 +9,13 @@
 [![LinkedIn](https://i.imgur.com/mnAsGOC.png)](https://www.linkedin.com/in/moiss/)
 
 ### Skills:
-
+![Python](https://i.imgur.com/eV1eaQ5.png)
+![React.js](https://i.imgur.com/e4DQYSQ.png)
+![JavaScript](https://i.imgur.com/NuGbJlf.png)
+![Bootstrap](https://i.imgur.com/gmRmIUO.png)
+![CSS](https://i.imgur.com/W27WV6a.png)
+![HTML](https://i.imgur.com/gUGix48.png)
+![Data Base](https://i.imgur.com/Avnd8x3.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingmoiss&langs_count=8)](https://github.com/ingmoiss/github-readme-stats)
 
