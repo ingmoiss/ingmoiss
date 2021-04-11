@@ -8,7 +8,7 @@
 [![Twitter](https://i.imgur.com/PeR6qmL.png)](https://twitter.com/_moiss_) 
 [![LinkedIn](https://i.imgur.com/mnAsGOC.png)](https://www.linkedin.com/in/moiss/)
 
-<a href="https://www.linkedin.com/in/moiss/" target="__blank">![](https://i.imgur.com/bL5Sjy0.png)</a>
+<a href="https://www.linkedin.com/in/moiss/" target="_blank">![](https://i.imgur.com/bL5Sjy0.png)</a>
 
 
 
