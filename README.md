@@ -8,7 +8,7 @@
 [![Twitter](https://i.imgur.com/PeR6qmL.png)](https://twitter.com/_moiss_) 
 [![LinkedIn](https://i.imgur.com/mnAsGOC.png)](https://www.linkedin.com/in/moiss/)
 
-## Tech Stack 
+## Tech Stack :bowtie:
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-fafa3c?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)&nbsp;
