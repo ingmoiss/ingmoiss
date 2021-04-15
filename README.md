@@ -8,7 +8,8 @@
 [![Twitter](https://i.imgur.com/PeR6qmL.png)](https://twitter.com/_moiss_) 
 [![LinkedIn](https://i.imgur.com/mnAsGOC.png)](https://www.linkedin.com/in/moiss/)
 
-### Tech Stack:
+## Tech Stack 
+### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-fafa3c?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-f58e20?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1cb3ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)&nbsp;
@@ -17,10 +18,10 @@
 ![C++](https://img.shields.io/badge/C++-1127f2?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=101010)&nbsp;
 ![C#](https://img.shields.io/badge/C_Sharp-5336e3?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-2578b8?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)&nbsp;
-![SQLServer](https://img.shields.io/badge/SQL_Server-2578b8?style=for-the-badge&logo=data-base&logoColor=white&labelColor=101010)&nbsp;
+![SQLServer](https://img.shields.io/badge/SQL_Server-e33636?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)&nbsp;
+
 
 ![React](https://img.shields.io/badge/React-2578b8?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)&nbsp;
-
 ![Flask](https://img.shields.io/badge/Flask-2578b8?style=for-the-badge&logo=Flask&logoColor=white&labelColor=101010)&nbsp;
 
 
