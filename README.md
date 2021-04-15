@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/HTML-f58e20?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1cb3ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f51b1b?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)&nbsp;
-![Python](https://img.shields.io/badge/Python-2578b8?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)&nbsp;
+![Python](https://img.shields.io/badge/Python-edde07?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)&nbsp;
 ![C++](https://img.shields.io/badge/C++-2578b8?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=101010)&nbsp;
 ![C#](https://img.shields.io/badge/C_Sharp-2578b8?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-2578b8?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)&nbsp;
