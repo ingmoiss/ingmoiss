@@ -14,10 +14,10 @@
 ![CSS](https://img.shields.io/badge/CSS-1cb3ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f51b1b?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)&nbsp;
 ![Python](https://img.shields.io/badge/Python-edde07?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)&nbsp;
-![C++](https://img.shields.io/badge/C++-2578b8?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=101010)&nbsp;
-![C#](https://img.shields.io/badge/C_Sharp-2578b8?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)&nbsp;
+![C++](https://img.shields.io/badge/C++-1127f2?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=101010)&nbsp;
+![C#](https://img.shields.io/badge/C_Sharp-5336e3?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-2578b8?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)&nbsp;
-![SQLServer](https://img.shields.io/badge/SQL_Server-2578b8?style=for-the-badge&logo=SQL-Server&logoColor=white&labelColor=101010)&nbsp;
+![SQLServer](https://img.shields.io/badge/SQL_Server-2578b8?style=for-the-badge&logo=data-base&logoColor=white&labelColor=101010)&nbsp;
 
 ![React](https://img.shields.io/badge/React-2578b8?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)&nbsp;
 
