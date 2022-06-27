@@ -1,6 +1,6 @@
-# Hi, I am Moisés a junior software engineer :man_technologist:
+# Hi, I'm Moisés a junior software engineer :man_technologist:
 
-<p>I am an advanced student of software engineering :man_student:, with extensive knowledge in web site creation, desktop application development and database. I am a self-taught person who does not stop learning. :brain: </p>
+<p>I'm an advanced student of software engineering :man_student:, with extensive knowledge in web site creation, desktop application development and database. Me a self-taught person who does not stop learning. :brain: </p>
 
 ### Social Networks:
 [![](https://i.imgur.com/bL5Sjy0.png)]()
