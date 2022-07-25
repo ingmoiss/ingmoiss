@@ -1,4 +1,4 @@
-# Hi, I'm Moisés a junior software engineer :man_technologist:
+# Hi, I'm Moisés a Jr. Software Engineer :man_technologist:
 
 <p>I'm an advanced student of software engineering :man_student:, with extensive knowledge in web site creation, desktop application development and database. Me a self-taught person who does not stop learning. :brain: </p>
 
