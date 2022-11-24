@@ -20,7 +20,7 @@
 ![C#](https://img.shields.io/badge/C_Sharp-5336e3?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-2578b8?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQL_Server-e33636?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)&nbsp;
-![Node JS](https://img.shields.io/badge/Node_JS-e33636?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)&nbsp;
+![Node JS](https://img.shields.io/badge/Node-e33636?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)&nbsp;
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-ed6dd6?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)&nbsp;
 ![React](https://img.shields.io/badge/React-08c75e?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)&nbsp;
