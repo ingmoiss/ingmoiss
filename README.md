@@ -1,6 +1,6 @@
 # Hi, I'm Moisés a Jr. Software Engineer :man_technologist:
 
-<p>I'm software engineer :computer: :floppy_disk:, with extensive knowledge in frond-end and back-end. Me a self-taught person who does not stop learning. :brain: </p>
+<p>I'm software engineer :computer: :floppy_disk:, with experience in frond-end and back-end. I'm a self-taught person who doesn't stop learning. :brain: </p>
 
 ### Social Networks:
 
@@ -10,7 +10,7 @@
 
 ## Tech Stack :bowtie:
 
-### Languages:
+### Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-fafa3c?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-f58e20?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1cb3ff?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)&nbsp;
@@ -20,6 +20,7 @@
 ![C#](https://img.shields.io/badge/C_Sharp-5336e3?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-2578b8?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQL_Server-e33636?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)&nbsp;
+![Node JS](https://img.shields.io/badge/Node_JS-e33636?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)&nbsp;
 ### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-ed6dd6?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)&nbsp;
 ![React](https://img.shields.io/badge/React-08c75e?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)&nbsp;
